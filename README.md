@@ -1,4 +1,4 @@
-# Face Recognition Assignment
+# Real Time Face Recognition
 
 **Nama**: Bagus Cipta Pratama  
 **NIM**: 23/516539/PA/22097
