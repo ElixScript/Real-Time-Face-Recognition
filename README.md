@@ -54,5 +54,7 @@ face_recognition_project/
 
 ## Result and Real Test
 - Console menampilkan classification report (precision, recall, f1-score).
-  
+  ![image](https://github.com/user-attachments/assets/82fcdee2-76f2-47d1-85bc-6b0d7e238a66)
+
 - Jendela video menampilkan deteksi dan pengenalan wajah secara real-time.
+  
