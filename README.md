@@ -34,10 +34,6 @@ face_recognition_project/
    source .venv/bin/activate    # macOS/Linux
    .venv\Scripts\activate     # Windows
    ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Cara Menjalankan
 1. **Training & Evaluasi**
@@ -57,4 +53,6 @@ face_recognition_project/
   ![image](https://github.com/user-attachments/assets/82fcdee2-76f2-47d1-85bc-6b0d7e238a66)
 
 - Jendela video menampilkan deteksi dan pengenalan wajah secara real-time.
+  ![Screenshot 2025-04-25 224712](https://github.com/user-attachments/assets/1102ef63-0014-49b7-ae8c-1ad6ea0b5f0a)
+
   
